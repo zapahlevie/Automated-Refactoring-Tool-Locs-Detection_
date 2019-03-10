@@ -1,6 +1,6 @@
 package com.finalproject.automated.refactoring.tool.locs.detection.service.implementation;
 
-import com.finalproject.automated.refactoring.tool.locs.detection.service.LocsDetection;
+import  com.finalproject.automated.refactoring.tool.locs.detection.service.LocsDetection;
 import lombok.NonNull;
 import org.springframework.stereotype.Service;
 
